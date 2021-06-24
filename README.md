@@ -1,16 +1,8 @@
 # grade_calculator
 
-A new Flutter application.
+The first commit contains the boiler-plate for the UI.
 
-## Getting Started
+Here are some screenshots of the UI.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="331" alt="Screen Shot 2021-06-24 at 4 07 14 PM" src="https://user-images.githubusercontent.com/66990588/123343237-3e7f9200-d506-11eb-9601-440683932811.png">
+<img width="274" alt="Screen Shot 2021-06-24 at 4 07 26 PM" src="https://user-images.githubusercontent.com/66990588/123343254-463f3680-d506-11eb-9ef2-4bf0cbde6103.png">
